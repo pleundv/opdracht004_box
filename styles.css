@@ -1,0 +1,73 @@
+.headerhoofd {
+    border: 2px red solid;
+    margin: 20px 5px;
+    padding-left: 5px;
+}
+
+.main {
+    border: 5px red solid;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-left: 5px;
+    padding-bottom: 10px;
+}
+
+
+.footer {
+    border: 4px red solid;
+    margin: 20px 5px;
+    padding: 0px 5px 0px 5px;
+}
+
+#test {
+    margin: 0 auto;
+    width: 500px;
+}
+
+.hoofdlijst
+{ 
+    list-style-type: none;
+    margin: 0;
+    padding: 10px;
+}
+
+.hoofdlijst li{
+    display: inline;
+}
+
+.hoofdlijst a{
+    text-decoration: none;
+    color:pink;
+    margin: 15px;
+    }
+
+.hoofdlijst a:hover{
+    color: lightblue;
+}
+.border {
+    border-bottom: 5px solid #ffb6c1;
+}
+
+.header {
+    font: 20px Lucida Console, Courier New;
+    font-weight: bold;
+    background-color: #e3b1d2;
+}
+
+.lijst {
+    font: 14px times new roman
+}
+
+.eind {
+    background-color: skyblue;
+    color: white;
+}
+
+.letters{
+    font:15px times new roman;
+    font-style: oblique;
+    color:salmon
+}
+
